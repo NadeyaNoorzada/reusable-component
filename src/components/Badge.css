@@ -1,0 +1,18 @@
+.badge {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  background: rgb(105, 0, 0);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-size: 16px;
+}
+
+.badge-label {
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+.badge-value {
+  color: #ffffff;
+}
